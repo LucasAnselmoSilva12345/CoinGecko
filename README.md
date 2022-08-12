@@ -1,8 +1,8 @@
 # Coinc Goink 💸
 
-Seu site de consulta de valores sobre moedas virtuais
+Seu site de consulta de valores sobre moedas virtuais.
 
-[Version this Readme in english]()
+[Version this Readme in english](https://github.com/LucasAnselmoSilva12345/CoinGecko/blob/master/README-en.md)
 
 ## Sobre esse projeto
 
@@ -23,17 +23,9 @@ Nesse projeto, foram utilizadas as seguintes tecnologias:
 
 - [API - Coinc Goink](https://www.coingecko.com/pt)
 
-### Ferramenta para deploy
-
-- DEPLOY
-
 ## Objetivo desse projeto
 
 O objetivo desse projeto é colocar em prática os ensinamentos adquiridos nos estudos da tecnologia [Svelte](https://svelte.dev/), junto com utilização de software de estilização pré pronto, como o [bootstrap](https://getbootstrap.com/) e conexão com a [API - Coinc Goink](https://www.coingecko.com/pt).
-
-## Acesse o site
-
-- [site]()
 
 ## Como executar esse projeto
 
@@ -55,7 +47,7 @@ $ cd pasta
 
 ```
 
-Obs. Para realizar a execução do comando no próximo passo, tenha garantia que tenha o [node](https://nodejs.org/en/) instalado em sua maquina para poder utilizar o `npm`. Ou caso prefira instalar as dependências via `yarn` tenha garantia que tem o [yarn](https://yarnpkg.com/) instalado em sua maquina.
+Obs. Para realizar a execução do comando no próximo passo, tenha garantia que tenha o [node](https://nodejs.org/en/) instalado em sua máquina para poder utilizar o `npm`. Ou caso prefira instalar as dependências via `yarn` tenha garantia que tem o [yarn](https://yarnpkg.com/) instalado em sua máquina.
 
 3. Após entrar na pasta do projeto, rode o comando:
 
@@ -81,10 +73,11 @@ $ code .
 
 Para abrir o projeto no Visual Studio Code.
 
-5. Após abrir o projeto no seu Visual Studio Code, volte para a tela do terminal, e rode o comando:
+5. Após abrir o projeto no seu Visual Studio Code, volte para a tela do terminal, e rode o comando:
 
 ```sh
-npm dev
+
+$ npm run dev
 
 ou
 
@@ -92,8 +85,12 @@ yarn dev
 
 ```
 
-6. Feito isso, basta abrir o projeto no seu navegador, através do link:
+Para executar o projeto
+
+6. Feito isso, basta abrir o projeto no seu navegador, através do link:
 
 ```sh
-http://localhost:5173/
+
+$ http://localhost:5173/
+
 ```
